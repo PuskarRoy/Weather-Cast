@@ -25,6 +25,7 @@ A simple Android application that provides weather updates for any location. The
 - Weather API (https://www.weatherapi.com/)
 - Networking: Retrofit
 - JSON Parsing: Gson/JSONObject
+- Room | MVVM | Dagger-Hilt  
 
 
 ## Contributing
