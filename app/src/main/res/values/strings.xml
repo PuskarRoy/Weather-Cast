@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather Cast</string>
+    <string name="app_version">Weather Cast v0.1</string>
+    <string name="api_use">API Use : "https://api.weatherapi.com/"</string>
+</resources>
