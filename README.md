@@ -1,5 +1,5 @@
 
-# Weather App ☀️🌧️
+# Weather Cast ☀️🌧️
 
 A simple Android application that provides weather updates for any location. The app fetches current weather conditions, including temperature, humidity, wind speed, and more, using a weather API.
 
