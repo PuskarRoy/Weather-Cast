@@ -7,7 +7,7 @@ A simple Android application that provides weather updates for any location. The
 ## Features 🚀
 
 - Displays up-to-date weather information for specified city.
-- Users can search for weather in other cities or regions.
+- Users can search for weather in other cities.
 - Includes temperature, weather description, wind speed, humidity, and pressure.
 - Displays weather condition icons for an enhanced user experience.
 - Simple and easy-to-use interface for smooth navigation.
